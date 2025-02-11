@@ -5,24 +5,24 @@ This Jupyter Notebook contains a comprehensive stock market analysis, including 
 
 ## 🚀 Features
 ### 📊 Data Extraction
-- PostgreSQL queries to collect and merge stock data from **2014 to 2024**.
-- Full outer joins to ensure consistency across stock datasets.
+✅ PostgreSQL queries to collect and merge stock data from **2014 to 2024**.
+✅ Full outer joins to ensure consistency across stock datasets.
 
 ### 🛠 Data Preprocessing
-- Cleaning and formatting the dataset.
-- Handling missing values and outliers.
-- Converting date formats and ensuring consistency.
+✅ Cleaning and formatting the dataset.
+✅ Handling missing values and outliers.
+✅ Converting date formats and ensuring consistency.
 
 ### 🔍 Exploratory Data Analysis (EDA)
-- Statistical summary of stock prices.
-- Visualization of historical trends using **Matplotlib** and **Seaborn**.
-- Correlation analysis between different stocks.
+✅ Statistical summary of stock prices.
+✅ Visualization of historical trends using **Matplotlib** and **Seaborn**.
+✅ Correlation analysis between different stocks.
 
 ### 🤖 Machine Learning and Deep Learning
-- Implementation of a **TensorFlow/Keras** model to predict future stock prices.
-- Training and evaluation of neural network models for time-series forecasting.
+✅ Implementation of a **TensorFlow/Keras** model to predict future stock prices.
+✅ Training and evaluation of neural network models for time-series forecasting.
 
 ## 🛠 Technologies Used
-**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow/Keras
-**SQL Database:** PostgreSQL for structured data extraction and manipulation
+- 🐍 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow/Keras
+- 🗄 **SQL Database:** PostgreSQL for structured data extraction and manipulation
 
